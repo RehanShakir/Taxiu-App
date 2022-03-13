@@ -1,0 +1,17 @@
+{
+  "app_name": "New Taxi",
+  "app_description": "Taxi Application",
+  "app_identifier": "com.taxiqw.com",
+  "ios_app_version": "1.0.0",
+  "android_app_version": 100,
+  "facebookAppId": "366160341579062",
+  "firebaseProjectId": "taxi-app-1605f",
+  "googleApiKeys": {
+    "ios": "AIzaSyBIfS9-rqgre1t0uHOKXwKvuPRvP3OwSE4",
+    "android": "AIzaSyBIfS9-rqgre1t0uHOKXwKvuPRvP3OwSE4",
+    "web": "AIzaSyBIfS9-rqgre1t0uHOKXwKvuPRvP3OwSE4",
+    "server": "AIzaSyBIfS9-rqgre1t0uHOKXwKvuPRvP3OwSE4"
+  },
+
+  "CodeCanyon_Purchase_Code": "AIzaSyBIfS9-rqgre1t0uHOKXwKvuPRvP3OwSE4"
+}
